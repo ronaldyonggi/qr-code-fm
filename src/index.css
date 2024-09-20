@@ -1,0 +1,6 @@
+@import './styles/global.css';
+
+html {
+    background-color: var(--background-color);
+    font-family: 'Outfit', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
