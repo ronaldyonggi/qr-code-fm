@@ -1,0 +1,7 @@
+:root {
+  --white: hsl(0, 0, 100%);
+  --background-color: hsl(212, 45%, 89%);
+  --description-color: hsl(216, 15%, 48%);
+  --title-color: hsl(218, 44%, 22%);
+  --font-size: 15px;
+}
