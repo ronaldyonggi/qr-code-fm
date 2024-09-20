@@ -1,0 +1,13 @@
+@import './styles/global.css';
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 375px) {
+  body {
+    padding: 20px;
+  }
+}
